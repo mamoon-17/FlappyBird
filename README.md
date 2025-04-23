@@ -1,4 +1,3 @@
-```markdown
 # Flappy Bird in x86 Assembly (Text Mode)
 
 A simple yet nostalgic recreation of **Flappy Bird**, built entirely in **NASM x86 Assembly** for 16-bit real mode using **BIOS interrupts** and **25x80 text mode graphics**.
