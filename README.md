@@ -11,7 +11,7 @@ A simple yet nostalgic recreation of **Flappy Bird**, built entirely in **NASM x
 - Compatible with DOSBox or any real-mode x86 emulator
 
 ## 🚀 How to Run
-   ```
+   
 1. Assemble the code with NASM:
    ```bash
    nasm -f projectj.asm -o projectj.com 
